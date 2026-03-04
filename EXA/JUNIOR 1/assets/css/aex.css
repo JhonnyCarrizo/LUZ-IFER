@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    place-items: center;
+    margin: 200px;
+}
+.label{
+    color: rgb(255, 0, 0);
+}
+#button{
+    font-size: 20px;
+}
